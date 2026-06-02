@@ -1,7 +1,7 @@
 # Practice_Excel
 # 📊 Sales Data Analysis & Business Intelligence Project
 
-**Author:** Darshan Patil
+
 
 ---
 
